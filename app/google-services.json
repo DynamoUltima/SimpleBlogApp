@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "977762341324",
+    "firebase_url": "https://simple-blog-f6647.firebaseio.com",
+    "project_id": "simple-blog-f6647",
+    "storage_bucket": "simple-blog-f6647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977762341324:android:188af15afa316778",
+        "android_client_info": {
+          "package_name": "com.example.joel.simpleblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977762341324-dj6gi5prg30uutt4igqklm9ku4snc804.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-ToZIWsQMohixj5R4J143Iu2mSJuGv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
